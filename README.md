@@ -1,0 +1,2 @@
+# furioscoin
+furioscoid
